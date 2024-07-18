@@ -21,6 +21,7 @@ ISuP - Immunosuppressive Peptides
 NP - Neuro peptides
 PBP - Polystyrene surface binding peptides
 SP - Surface binding peptides
+THP - Tummor Homing peptides
 QSP - Quorum Sensing peptides
 TP - Toxic peptides
 
