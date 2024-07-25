@@ -10,7 +10,7 @@ AIP - Anti-inflammatory peptides
 AMP - Anti-microbial peptides
 APP - Anti-parasitic peptides
 AVP - Anti-viral peptides
-BBBP - Blood brain barrier peptides
+B3PP - Blood brain barrier peptides
 CP - Chemotactic peptides
 CPP - Cell-penetrating peptides
 HP - Hormonal peptides
