@@ -26,4 +26,11 @@ quantiprot https://git.e-science.pl/wdyrka/quantiprot
 PepFun2 https://github.com/rochoa85/PepFun2
 aaindex https://github.com/amckenna41/aaindex
 aaindexer https://github.com/multimeric/aaindexer
+Pse-in-One https://bioinformatics.hitsz.edu.cn/Pse-in-One
+Pse-in-One 2.0 https://bioinformatics.hitsz.edu.cn/Pse-in-One2.0/
+iLearn https://ilearn.erc.monash.edu
+Seq2Feature https://wwww.iitm.ac.in/bioinfo/SBFE/index.html
+PyFeat https://github.com/mrzResearchArena/PyFeat/
+pfeature https:/webs.iiitd.edu.in/raghava/pfeature/
+VisFeature https://github.com/wnagjun1996/VisFeature
 
